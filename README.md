@@ -11,9 +11,8 @@ The main objective of this analysis is to compare different clustering algorithm
 **Clustering Algorithms Used**
 
 **K-Means Clustering**
-
-A popular clustering method that aims to partition the dataset into a predefined number of clusters (in this case, 6).
-K-Means assigns each data point to the nearest cluster centroid, but it assumes that clusters are spherical and of similar sizes.
+- A popular clustering method that aims to partition the dataset into a predefined number of clusters (in this case, 6).
+- K-Means assigns each data point to the nearest cluster centroid, but it assumes that clusters are spherical and of similar sizes.
 
 **Affinity Propagation**
 
