@@ -1,7 +1,8 @@
 # Clustering-Algorithm
 Comparing SKLEARN Clustering Algorithms
 
-#Overview
+**#Overview**
+
 This project provides a comprehensive comparative analysis of various clustering algorithms using Python and machine learning libraries. The analysis explores different clustering techniques, their characteristics, and performance on a given dataset.
 
 **The project implements and analyzes six sophisticated clustering algorithms:**
