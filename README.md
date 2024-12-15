@@ -4,7 +4,7 @@ Comparing SKLEARN Clustering Algorithms
 #Overview
 This project provides a comprehensive comparative analysis of various clustering algorithms using Python and machine learning libraries. The analysis explores different clustering techniques, their characteristics, and performance on a given dataset.
 
-The project implements and analyzes six sophisticated clustering algorithms:
+**The project implements and analyzes six sophisticated clustering algorithms:**
 
 **1. K-Means Clustering**
 - Core Concept: Partitioning method dividing data into k-number of clusters
@@ -15,15 +15,12 @@ The project implements and analyzes six sophisticated clustering algorithms:
     Assumes spherical clusters
     Prone to forcing points into clusters
 
-#Affinity Propagation
-
-  Core Concept: Exemplar-based clustering without predefined cluster count
-
-  Key Parameters:
+**2. Affinity Propagation**
+- Core Concept: Exemplar-based clustering without predefined cluster count
+- Key Parameters:
     Preference: -6.0
     Damping: 0.95
-
-  Challenges:
+- Challenges:
     Computationally expensive
     Inefficient for large datasets
 
