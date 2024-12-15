@@ -6,13 +6,11 @@ This project provides a comprehensive comparative analysis of various clustering
 
 The project implements and analyzes six sophisticated clustering algorithms:
 
-**1.K-Means Clustering**
+**1. K-Means Clustering**
 - Core Concept: Partitioning method dividing data into k-number of clusters
-
 - Key Parameters:
     Cluster Count: 6
     Optimal for large, well-separated datasets
-
 - Limitations:
     Assumes spherical clusters
     Prone to forcing points into clusters
