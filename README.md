@@ -6,34 +6,25 @@ This project provides a comprehensive comparative analysis of various clustering
 
 The project implements and analyzes six sophisticated clustering algorithms:
 
-K-Means Clustering
-
+**#K-Means Clustering**
 Core Concept: Partitioning method dividing data into k-number of clusters
-Key Parameters:
 
+**Key Parameters:**
 Cluster Count: 6
 Optimal for large, well-separated datasets
 
-
-Limitations:
-
+**Limitations:**
 Assumes spherical clusters
 Prone to forcing points into clusters
 
-
-
-
-Affinity Propagation
-
+**#Affinity Propagation**
 Core Concept: Exemplar-based clustering without predefined cluster count
-Key Parameters:
 
+**Key Parameters:**
 Preference: -6.0
 Damping: 0.95
 
-
-Challenges:
-
+**Challenges:**
 Computationally expensive
 Inefficient for large datasets
 
