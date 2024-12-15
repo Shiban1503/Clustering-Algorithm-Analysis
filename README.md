@@ -24,26 +24,18 @@ This project provides a comprehensive comparative analysis of various clustering
     Computationally expensive
     Inefficient for large datasets
 
-
-
-
-Mean Shift Clustering
-
+**3. Mean Shift Clustering**
 Core Concept: Density-based clustering adapting to non-linear data structures
-Key Parameters:
-
-Bandwidth: 0.19
-
-
-Characteristics:
-
-Flexible cluster shape detection
-Sensitive to bandwidth selection
+-    Key Parameters:
+-    Bandwidth: 0.19
+-    Characteristics:
+        Flexible cluster shape detection
+        Sensitive to bandwidth selection
 
 
 
 
-Spectral Clustering
+**4. Spectral Clustering**
 
 Core Concept: Graph-based clustering using eigenvalue decomposition
 Key Parameters:
@@ -59,7 +51,7 @@ Effective for interconnected data
 
 
 
-Agglomerative Clustering
+**5. Agglomerative Clustering**
 
 Core Concept: Hierarchical bottom-up clustering approach
 Key Parameters:
@@ -71,7 +63,7 @@ Linkage Method: Ward
 Visualization: Dendrogram representation
 
 
-HDBSCAN
+**6. HDBSCAN**
 
 Core Concept: Advanced density-based spatial clustering
 Key Parameters:
